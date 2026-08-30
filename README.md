@@ -19,8 +19,9 @@ The analysis will be developed across multiple weeks, beginning with data unders
 - 60 missing values (1%) in `waiting_time_minutes`
 
 ## Week 4 Project Files
-- Initial Analysis Report
-- `HealthConnect_Week4_Data_Quality_Assessment.pbix`
+- [Project Summary](./HealthConnect_Project_Summary.pdf)
+- [Initial Analysis Report](./HealthConnect_Initial_Analysis.pdf)
+- [Data Quality View](./Data_Quality_View.pdf)
 
 ## Tools Used
 - Power BI
