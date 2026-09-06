@@ -31,7 +31,7 @@ The analysis will be developed across multiple weeks, beginning with data unders
 - No-show rates fluctuate seasonally but stay persistently high. Monthly no-show rates range from 42.17% (November) to 53.85% (December), showing some seasonal variation but never dropping to a healthy baseline at any point in the year.
 - Booking lead time may be a contributing factor. With an average booking lead time of 30 days, longer gaps between booking and appointment date could be giving patients more opportunity to forget or deprioritize their visit — worth deeper investigation in Week 6.
 ## Analysis Files 
-- [Dashboard] (./HealthConnect.pdf)
+- [Dashboard](./HealthConnect.pdf)
 ## Tools Used
 - Power BI
 - Power Query
